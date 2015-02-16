@@ -1,0 +1,10 @@
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.exe.config
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.exe
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.pdb
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.csprojResolveAssemblyReference.cache
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.Properties.Resources.resources
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.csproj.GenerateResource.Cache
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.exe
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.pdb
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.OrderPrints1.resources
+c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.Welcome.resources
