@@ -67,6 +67,9 @@
     <EmbeddedResource Include="OrderPrints1.resx">
       <DependentUpon>OrderPrints1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="OrderPrints2.resx">
+      <DependentUpon>OrderPrints2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
