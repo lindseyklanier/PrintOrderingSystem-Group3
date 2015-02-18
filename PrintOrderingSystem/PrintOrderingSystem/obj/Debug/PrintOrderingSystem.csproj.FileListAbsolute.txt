@@ -8,3 +8,14 @@ c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\Pri
 c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.pdb
 c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.OrderPrints1.resources
 c:\users\linds_000\documents\visual studio 2013\Projects\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.Welcome.resources
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.exe.config
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.exe
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.pdb
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.exe
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\bin\Debug\PrintOrderingSystem.pdb
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.OrderPrints1.resources
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.Properties.Resources.resources
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.Welcome.resources
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.csproj.GenerateResource.Cache
+C:\Users\Vinod\Documents\GitHub\6270\PrintOrderingSystem-Group3\PrintOrderingSystem\PrintOrderingSystem\obj\Debug\PrintOrderingSystem.OrderPrints2.resources
